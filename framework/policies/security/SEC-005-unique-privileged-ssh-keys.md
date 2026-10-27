@@ -2,7 +2,7 @@
 id: SEC-005
 title: Ensure unique privileged SSH keys per service
 domain: security
-status: proposed
+status: enacted
 scope: host-keys
 rules:
   - least_privilege: Each service must have its own dedicated privileged SSH key pair; keys must never be shared across services

@@ -2,7 +2,7 @@
 id: SEC-003
 title: Restrict outbound allow‑list for Service A
 domain: security
-status: proposed
+status: enacted
 scope: service-a
 rules:
   - least_privilege: Service A may only call whitelisted API endpoints defined in its manifest

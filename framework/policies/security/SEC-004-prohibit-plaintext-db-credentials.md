@@ -2,7 +2,7 @@
 id: SEC-004
 title: Prohibit plaintext database credentials in source control
 domain: security
-status: proposed
+status: enacted
 scope: code-repositories
 rules:
   - secret_handling: Database credentials must be stored only in secret management systems and referenced via environment variables or secret injection mechanisms

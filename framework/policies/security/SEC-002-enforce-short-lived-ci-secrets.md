@@ -2,7 +2,7 @@
 id: SEC-002
 title: Enforce short‑lived CI secrets
 domain: security
-status: proposed
+status: enacted
 scope: ci-pipelines
 rules:
   - least_privilege: CI jobs receive only the secrets they declare with a maximum TTL of 1 hour

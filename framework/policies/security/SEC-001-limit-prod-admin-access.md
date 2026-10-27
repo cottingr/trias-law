@@ -2,7 +2,7 @@
 id: SEC-001
 title: Limit production admin tool access
 domain: security
-status: proposed
+status: enacted
 scope: production-hosts
 rules:
   - least_privilege: Only SRE team members may invoke admin tooling on production
