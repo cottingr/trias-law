@@ -2,7 +2,7 @@
 id: SEC-104
 title: Limit CI pipeline credential TTL to 2 hours
 domain: security
-status: proposed
+status: enacted
 scope: ci-pipelines
 rules:
   - least_privilege: Temporary credentials issued to CI jobs must expire after 2 hours.

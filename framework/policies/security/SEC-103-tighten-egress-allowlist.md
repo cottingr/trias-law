@@ -2,7 +2,7 @@
 id: SEC-103
 title: Tighten outbound network allow‑list for compute instances
 domain: security
-status: proposed
+status: enacted
 scope: network
 rules:
   - least_privilege: Instances may connect only to approved internal services and approved external endpoints (list defined elsewhere).

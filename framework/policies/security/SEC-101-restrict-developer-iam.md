@@ -2,7 +2,7 @@
 id: SEC-101
 title: Restrict developer IAM privileges to least‑privilege scoped actions
 domain: security
-status: proposed
+status: enacted
 scope: iam
 rules:
   - least_privilege: Developers receive only permissions required for their project resources, no wildcard actions.

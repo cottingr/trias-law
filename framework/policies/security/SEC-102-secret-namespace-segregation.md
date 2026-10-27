@@ -2,7 +2,7 @@
 id: SEC-102
 title: Enforce secret namespace segregation per service
 domain: security
-status: proposed
+status: enacted
 scope: secrets
 rules:
   - least_privilege: Each service may read secrets only within its own `service/<name>/` namespace.
