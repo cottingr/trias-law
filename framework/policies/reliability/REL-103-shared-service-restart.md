@@ -2,7 +2,7 @@
 id: REL-103
 title: Prohibit unsanctioned restarts of shared services
 domain: reliability
-status: proposed
+status: enacted
 scope: service-restarts
 rules:
   - require: Restart of any shared service must have explicit approval from the service owner and a documented rollback plan.

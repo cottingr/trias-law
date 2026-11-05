@@ -2,7 +2,7 @@
 id: REL-102
 title: Mandatory post‑deployment health checks for critical services
 domain: reliability
-status: proposed
+status: enacted
 scope: post-deployment
 rules:
   - require: Deployments to critical services must run a health‑check suite within five minutes of completion.

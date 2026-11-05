@@ -2,7 +2,7 @@
 id: REL-101
 title: Dual-owner approval for redundant pair changes
 domain: reliability
-status: proposed
+status: enacted
 scope: change-management
 rules:
   - require: At least two distinct owners must approve any change that touches a member of a redundant pair.
