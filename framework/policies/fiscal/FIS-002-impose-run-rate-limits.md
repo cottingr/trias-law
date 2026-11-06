@@ -2,7 +2,7 @@
 id: FIS-002
 title: Impose Run Rate Limits and Execution Time Boxes
 domain: fiscal
-status: proposed
+status: enacted
 scope: execution
 rules:
   - max_qps: 120

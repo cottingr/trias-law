@@ -2,7 +2,7 @@
 id: FIS-003
 title: Assign Model Tiers and Ensure Honest Cost Billing
 domain: fiscal
-status: proposed
+status: enacted
 scope: model-management
 rules:
   - frontier_tier: exclusive to executive workloads

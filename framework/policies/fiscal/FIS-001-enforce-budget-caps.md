@@ -2,7 +2,7 @@
 id: FIS-001
 title: Enforce Periodic Budget Caps and Full Accounting
 domain: fiscal
-status: proposed
+status: enacted
 scope: system-wide
 rules:
   - daily_cap: 10_000_000_USD
