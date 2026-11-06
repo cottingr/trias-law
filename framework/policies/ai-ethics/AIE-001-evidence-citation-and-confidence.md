@@ -2,7 +2,7 @@
 id: AIE-001
 title: Require Evidence Citation and Confidence Disclosure in Agent Responses
 domain: ai-ethics
-status: proposed
+status: enacted
 scope: all-agent-responses
 rules:
   - agents must cite verifiable evidence for factual statements
