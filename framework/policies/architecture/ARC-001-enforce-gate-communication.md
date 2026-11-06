@@ -2,7 +2,7 @@
 id: ARC-001
 title: Enforce Gate-Only Inter-Component Communication
 domain: architecture
-status: proposed
+status: enacted
 scope: inter-component
 rules:
   - require_gate_token: All service-to-service calls must include a valid Gate token.
