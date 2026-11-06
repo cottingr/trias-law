@@ -2,7 +2,7 @@
 id: SEC-107
 title: Enforce short‑lived service account keys
 domain: security
-status: proposed
+status: enacted
 scope: service-accounts
 rules:
   - key_rotation: Service account keys must have a maximum lifespan of 30 days and be rotated automatically.

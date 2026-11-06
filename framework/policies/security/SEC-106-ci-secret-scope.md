@@ -2,7 +2,7 @@
 id: SEC-106
 title: Scope CI pipeline secret access to declared secrets only
 domain: security
-status: proposed
+status: enacted
 scope: ci-pipelines
 rules:
   - least_privilege: CI jobs may read only the secrets explicitly declared in their pipeline definition.

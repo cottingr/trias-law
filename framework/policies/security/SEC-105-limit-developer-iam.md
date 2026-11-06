@@ -2,7 +2,7 @@
 id: SEC-105
 title: Limit developer IAM privileges to least privilege
 domain: security
-status: proposed
+status: enacted
 scope: developer-accounts
 rules:
   - least_privilege: Developers receive only permissions required for their project tasks, removing broad admin or Owner roles.

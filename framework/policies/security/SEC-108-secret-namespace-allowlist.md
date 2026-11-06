@@ -2,7 +2,7 @@
 id: SEC-108
 title: Namespace application secrets with explicit allow‑lists
 domain: security
-status: proposed
+status: enacted
 scope: secret-management
 rules:
   - namespace_isolation: Each application receives its own secret namespace; cross‑namespace reads are prohibited.
