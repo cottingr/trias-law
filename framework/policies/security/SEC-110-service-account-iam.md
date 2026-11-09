@@ -2,7 +2,7 @@
 id: SEC-110
 title: Enforce least-privilege IAM roles for service accounts
 domain: security
-status: proposed
+status: enacted
 scope: service-accounts
 rules:
   - least_privilege: Service accounts must be assigned roles that only permit actions required for their function, avoiding broad roles like "editor" or "owner"

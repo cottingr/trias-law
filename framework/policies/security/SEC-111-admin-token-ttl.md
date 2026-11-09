@@ -2,7 +2,7 @@
 id: SEC-111
 title: Short-lived admin access tokens
 domain: security
-status: proposed
+status: enacted
 scope: admin-access
 rules:
   - token_ttl: Admin access tokens must have a maximum TTL of 1 hour and require MFA for renewal

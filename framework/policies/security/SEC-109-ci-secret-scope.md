@@ -2,7 +2,7 @@
 id: SEC-109
 title: Scope CI pipeline secret access to declared needs
 domain: security
-status: proposed
+status: enacted
 scope: ci-pipelines
 rules:
   - least_privilege: Pipelines may only request and read secrets explicitly declared in their job definition
