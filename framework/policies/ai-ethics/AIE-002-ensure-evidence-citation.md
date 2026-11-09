@@ -2,7 +2,7 @@
 id: AIE-002
 title: Mandate evidence citation, confidence labeling, and uncertainty disclosure
 domain: ai-ethics
-status: proposed
+status: enacted
 scope: ai-responses
 rules:
   - require: All AI statements that influence policy or agent actions must cite supporting evidence or note when evidence is unavailable.
