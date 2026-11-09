@@ -2,7 +2,7 @@
 id: FIS-005
 title: Rate‑Limit Run Submissions and Detect Burst Clustering
 domain: fiscal
-status: proposed
+status: enacted
 scope: run-rate
 rules:
   - max_runs_per_minute: 1200

@@ -2,7 +2,7 @@
 id: FIS-007
 title: Referral Time‑Box Enforcement and Escalation
 domain: fiscal
-status: proposed
+status: enacted
 scope: referrals
 rules:
   - max_referral_duration_minutes: 30

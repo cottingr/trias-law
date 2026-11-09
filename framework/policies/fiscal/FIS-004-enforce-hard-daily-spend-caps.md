@@ -2,7 +2,7 @@
 id: FIS-004
 title: Enforce Hard Daily Spend Caps per Model Tier
 domain: fiscal
-status: proposed
+status: enacted
 scope: model-tier-spending
 rules:
   - limit_daily_spend: true

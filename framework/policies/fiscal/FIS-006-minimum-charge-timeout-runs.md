@@ -2,7 +2,7 @@
 id: FIS-006
 title: Minimum Charge for Timed‑Out Runs
 domain: fiscal
-status: proposed
+status: enacted
 scope: billing
 rules:
   - enforce_minimum_charge: true
