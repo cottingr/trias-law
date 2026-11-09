@@ -2,7 +2,7 @@
 id: ARC-002
 title: Enforce Gate Token for All Inter‑Service Actions
 domain: architecture
-status: proposed
+status: enacted
 scope: inter-service-communication
 rules:
   - require_gate_token: true
